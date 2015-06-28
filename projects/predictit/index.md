@@ -8,6 +8,7 @@ PredictIt is a political prediction market, in the vein of the long standing Iow
 On a basic level, this is pretty interesting, and what really brought me into the site was when I realized there were significant arbitrage opportunities in certain contracts. For the moment, I won't detail these opportunities since they still exist, although it has been harder as of late to find them.
 
 There are some frustrating aspects to the site, anyway:
+
 * 5% withdrawal fee
 * 10% fee on profits
 * No data or trading API
