@@ -11,7 +11,7 @@ url: http://www.ryanwendt.com
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Ryan W
+  name: Ryan Wendt
   # Little description about your site
   description: 
   # 'meta_description:' Write an awesome description for your new site here.
@@ -20,12 +20,12 @@ harmony:
   meta_description:  
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
   author: # Author details
-    name: Ryan W
+    name: Ryan Wendt
     email: ryan
-    url: http://ryanmfw.github.io
+    url: http://ryanwendt.com
 
   # Google Analytics key, leave blank to ignore
-  #google_analytics_key: UA-xxxx-x
+  google_analytics_key: UA-27900504-2
 
   # Profile links, leave blank to ignore
   
