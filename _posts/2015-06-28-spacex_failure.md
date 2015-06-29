@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SpaceX Falcon 9 CRS7 Failure"
-date:   2015-06-29
+date:   2015-06-28
 categories:
 - space
 description: Falcon 9 failure
