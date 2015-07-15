@@ -11,9 +11,9 @@ description: Initial results of grexit trading on predictit
 There were some interesting days recently, and from the prices below it is pretty clear how whippy this contract has been. 
 
 All trades were Yes contracts, with profit based on FIFO
-## Trades
+### Trades
 Day | Amount | Price | Net Position | Profit
-|--:|-------:|------:|-------------:|------:|
+---:|-------:|------:|-------------:|------:
 6/27/2015 | 22 | 43 | 22 | $0
 6/27/2015 |  3 | 43 | 25 | $0
 6/27/2015 | -3 | 43 | 22 | $0
