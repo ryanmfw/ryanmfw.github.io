@@ -3,6 +3,9 @@ layout: page
 title: PredictIt
 ---
 
+* [Pricing](pricing)
+* [Data](data)
+
 PredictIt is a political prediction market, in the vein of the long standing Iowa Electronic Market, or the now defunct Intrade. You can trade binary, yes or no contracts, that pay off a dollar if you are correct, and nothing otherwise.
 
 On a basic level, this is pretty interesting, and what really brought me into the site was when I realized there were significant arbitrage opportunities in certain contracts. For the moment, I won't detail these opportunities since they still exist, although it has been harder as of late to find them.
