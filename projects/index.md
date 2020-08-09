@@ -7,4 +7,5 @@ permalink: /projects/
 Currently working on two things:
 
 * [PredictIt Market Making](/projects/predictit/)
-* [Modular Synthesizer](/projects/synthesizer)
+* [Modular Synthesizer](/projects/synthesizer/)
+* [Satellite Observations](/projects/sat_obs/)
