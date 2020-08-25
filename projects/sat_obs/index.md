@@ -39,3 +39,7 @@ I have tried to use ATSAP and Astrometry.net's plate solvers to figure out what 
 
 Trying to calculate the angle of view - I have an 85mm lens for an EF mount with an APS-C sensor, with a 1.6 crop factor to a 35mm lens. 1/2" C mount sensors have a crop factor of 5.36. Does this mean the equivalent focal length of my 85mm focal length EF lens is (5.36*85mm/1.6) = 285 mm? That would provide for an angle of view of 1.28 x 0.97 degrees, which is small but not that small. However, I'm not sure that this conversion makes sense - it likely depends upon the definition of these numbers (is the listed focal length of the lens a 35 mm equivalent number?).
 
+Per Stellarium, the angle of view is roughly 4.25x3.25 degrees, which matches up well with the view of the camera once I had it aligned.
+
+### Setup
+There are a ton of wires and currently I'm just pulling everything out of a small crate. I'd like to setup a Pelican case with a power distribution system, a small screen and a small DVR to record everything. I'd also like to convert from composite (analog) to digital as early in the process as possible.
